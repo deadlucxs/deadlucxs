@@ -1,0 +1,49 @@
+htmi
+<! DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content=width=device-width, initial-scale=1> <title>LUCXS</title>
+<style>
+：root｛--a：#c9a227：--bg：#07070ai--
+m:#8b8b96}
+*{margin: 0;padding: 0;box-sizing: border-box; font-family: 'Helvetica Neue
+, Arial, sans-
+serif;-webkit-tap-highlight-color: transparent} body {background: var (--bg) ;color: #efefef; overflow-x:hidden}
+#bg{position: fixed;inset: 0;z-index: -2}
+• im{position: absolute; inset: 0¡backg round-size:cover;background-position: center; opacity: 0; filter:gr
+ayscale(.4)
+contrast (1.1) ;transition: opacity
+Зs}
+.im.on{opacity:.3}
+#bg:after{content:""¡position:absol ute; inset: 0¡background: radial-gradient (circle at 50%
+40%, transparent, #07070a 78%)} #gate{position: fixed;inset: 0¡backgr ound: #07070a;z-
+index: 99;display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 30px;transition: opacity .9s}
+•nm{font-weight: 200: letter-spacing:. 2em: font-
+size:clamp(46px,13vw, 150px)r
+• btn/background: none • border: 1px solid var (--a); color: var (--
+a) ;padding: 13px 36px;letter-spacing:. 3em; font-size: 11px; cursor:pointer;transition
+：.3s｝
+. bt: hover {background: var (--
+a); color:#07070a} section{min-
+height: 100vh;display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 70px 20px;text-align:center}
+h2{font-weight: 200;letter-spacing:.35em; font-
+size: 12px; color: var (--m); margin-bottom: 30px}
+. sub{color: var (--m) : letter-
+spacing:. 3em: font-size: 11px:marqin-top: 16px}
+. links{display: flex;gap: 34px;margin
+-top: 40px; flex-wrap:wrap; justify-content: center}
+• ic{width:60px;height:60px;display:
+grid; place-items: center;border-radius:50%;border: 1px solid #22222c:transition:.4s cubic-bezier (.2,.8,.2,1)}
+• ic
+svg{width:25px;height:25px;fill:var
+(--m);transition:.4s}
+.ic:hover,.ic: active{transform:tran slateY (-9px) scale(1.14) ;border-color:var (--a);box-shadow:0 0 28px rgba (201,162,39,.35)} . ic:hover svg,.ic:active
+svg{fill: var (--a)}
+p.bio{max-width:540px;line-
+height: 2;color: var (--m); font-size: 14px; font-weight: 300} a.c/color: var (--a): text-decoration: none: letter-spacing:. 2em; font-size: 13px; display:block;margin: 14px
+#pl{position:fixed;bottom: 16px;left
+: 16px; z-
+index: 50;display: none; align-items: center; gap: 10px;background: rg ba(15,15,22,.85);border: 1px solid #22222c; border-
+radius: 30px; padding: 8px 16px; backdrop-filter: blur (8px)} #pl span{font-size:10px:letter-spacing:. 2em;color:var (--m)} #pl
+button{background: none: border: 0; col or: var (--a): font-size: 13px; cursor: pointer}
