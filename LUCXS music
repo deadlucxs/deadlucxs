@@ -1,4 +1,3 @@
-htmi
 <! DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,3 +46,68 @@ height: 2;color: var (--m); font-size: 14px; font-weight: 300} a.c/color: var (-
 index: 50;display: none; align-items: center; gap: 10px;background: rg ba(15,15,22,.85);border: 1px solid #22222c; border-
 radius: 30px; padding: 8px 16px; backdrop-filter: blur (8px)} #pl span{font-size:10px:letter-spacing:. 2em;color:var (--m)} #pl
 button{background: none: border: 0; col or: var (--a): font-size: 13px; cursor: pointer}
+html
+</style>
+</head>
+<body>
+<div id="bg">
+‹div class="im on" id="il"
+style=ibackground-image: ur1 ( 'PHOTO1]
+URL')"></div>
+‹div class="im"-id="i2"
+style=ibackground-image: url ( 'PHOTO2 URL') "></div>
+‹div class="im" id="i3"
+style=¿background-
+image: url ('PHOTO3_URL')"></div> </div>
+‹div id="gate">
+<div class="nm">LUCXS</div>
+‹button class="btn"
+onclick="enter ()">ENTER</button> </div>
+‹section>
+<div class="nm">LUCXS</div> ‹div class="sub"> SYDNEY,
+AUSTRALIA</div>
+‹div class="links">
+<a class="ic" href="https://
+open.spotify.com/artist/ 377UsvfOIsgoIWllih98WU"
+target=" blank" onciick="clk()"><svg viewBox="0 0
+24 24"><path d="M12 0C5.4 0 0 5.4 0
+12s5.4 12 12 12 12-5.4 12-12S18.66
+0 12 Ozm5.52
+17.34c-.24.36-.66.48-1.02.24-2.82-1 . 74-6.36-2.1-10.56-1.14-.42.12-.78-
+.18-.9-.54-.12-.42.18-.78.54-.9
+4.56-1.02 8.52-.6 11.64
+1.32.42.18.48.66.3
+1.02zm1.44-3.3c-.3.42-.84.6-1.26.3-3.24-1.98-8.16-2.58-11.94-1.38-.48.
+12-1.02-.12-1.14-.6-.12-.48.12-1.02
+. 6-1.14 4.38-1.32 9.78-.66 13.5
+1.62.36.18.54.78.24
+1.2zm.12-3.36C15.24 8.four 8.94
+8.16 5.46
+9.24c-.6.18-1.2-.18-1.38-.72-.18-.6
+.18-1.2.72-1.38 4.02-1.2 11.04-.96
+15.36 1.62.54.3.72 1.02.42
+1.56-.3.42-1.02.6-1.5.36z"/></ svg></a>
+‹a class="ic" href="https://
+on. soundcloud.com/
+UfBddpwIKxwusw293q" target="_blank" onclick="c1k()"><svg viewBox="0 0
+24 24"><path d="M1
+14.5v2h1v-2H1zm2-1v3h1v-3H3zm2-2v5h
+1v-5H5zm2-1v6h1v-6H7zm2-2v8h1v-8H9z
+m2-2v10h1V6.5h-1zm2
+1v9h1v-9h-1zm2.5-1c-.5 0-1
+. 1-1.4.3v9.7H23c1.1 0 2-.9
+2-2s-.9-2-2-2c-.2 0-.4
+0-.6.1-.3-2.3-2.2-4.1-4.9-4.1z"/></ svg></a>
+‹a class="ic" href="https:// music.apple.com/au/artist/lucxs/
+1863166345" target=" blank"
+onclick="clk()"><svg viewBox="0 0
+24 24"><path d="M23.994 6.124a9.23
+9.23 0
+00-.24-2.19c-.317-1.31-1.062-2.31-2
+.18-3.043a5.022 5.022 0
+00-1.877-.726 10.496 10.496 0
+00-1.564-.15c-.04-.003-.083-.01-.12
+4-.013H5.988c-.152.01-.303.017-.455
+.026C4.786.071 4.043.15 3.34.428
+2.004.958 1.04 1.88.475
+3.208c-.192.448-.292
